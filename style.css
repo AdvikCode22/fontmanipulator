@@ -1,0 +1,45 @@
+.heading{
+    width: 100%;
+    margin-top: 0;
+    font-size: 36px;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    box-shadow: 3px 5px 10px rgb(58, 58, 58);
+    color: bisque;
+}
+
+.hed2{
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(71, 71, 71);
+    background-color: white;
+    white-space: pre-line;
+    margin-top: 10px;
+    text-shadow: none;
+    margin-bottom: 10px;
+}
+
+.jh8{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    text-shadow: none;
+    font-size: 30px;
+}
+
+canvas{
+    margin-top: 85px;
+    border: 5px white solid;
+    border-radius: 10px;
+    box-shadow: 7px 7px 10px gray;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(23, 23, 23);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
